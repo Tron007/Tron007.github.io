@@ -222,6 +222,9 @@
         grid-row-end: 5;
         justify-self: center;
     }
+     .sect-news.wrapper{
+        height: 160em;
+    }
 }
 @media(max-width: 320px){
     .header-img::before{
