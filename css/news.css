@@ -339,6 +339,9 @@ body{
   .wrapper{
     height: 160em;
   }
+    .front, .back{
+    height: 440px;
+  }
 }
 @media screen and (max-width: 64rem){
   .col{
