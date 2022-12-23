@@ -85,7 +85,7 @@
         justify-self: center;
         right: -20px;
     }
-    .sect-news{
+    .sect-news.wrapper{
         height: 100em;
     }
 }
@@ -203,7 +203,7 @@
         grid-column-start: 1;
         justify-self: center;
     }
-    .sect-news{
+    .sect-news.wrapper{
         height: 200em;
     }
 }
