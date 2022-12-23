@@ -336,9 +336,7 @@ body{
     text-decoration: none;
 }
 @media screen and (max-width: 360px) and (max-width: 320px){
-  .wrapper{
-    height: 160em;
-  }
+  
   .front, .back{
     height: 440px;
   }
