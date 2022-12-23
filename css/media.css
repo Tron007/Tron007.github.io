@@ -85,6 +85,9 @@
         justify-self: center;
         right: -20px;
     }
+    .sect-news{
+        height: 100em;
+    }
 }
 @media(max-width: 965px){
     .container-glass{
@@ -199,6 +202,9 @@
     .box-gradient:nth-child(4){
         grid-column-start: 1;
         justify-self: center;
+    }
+    .sect-news{
+        height: 200em;
     }
 }
 @media(max-width: 370px){
