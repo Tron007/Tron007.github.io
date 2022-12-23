@@ -214,9 +214,9 @@
         left: -1em;
     }
     .hero{
-        width: 350px;
-        height: 250px;
-        font-size: 7px;
+        width: 250px;
+        height: 150px;
+        font-size: 5px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
@@ -250,9 +250,9 @@
         grid-column-start: 1;
     }
     .hero{
-        width: 350px;
-        height: 250px;
-        font-size: 7px;
+        width: 250px;
+        height: 150px;
+        font-size: 5px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
@@ -276,9 +276,9 @@
         grid-column-start: 1;
     }
     .hero{
-        width: 350px;
-        height: 250px;
-        font-size: 7px;
+        width: 250px;
+        height: 150px;
+        font-size: 5px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
