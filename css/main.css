@@ -301,31 +301,13 @@ body{
     margin-top: 5px;
 }
 @media(max-width: 360px){
-    .box-gradient:nth-child(1){
-        grid-column-start: 1;
-    }
-    .box-gradient:nth-child(2){
-        grid-column-start: 1;
-    }
-    .box-gradient:nth-child(3){
-        grid-column-start: 1;
-    }
-    .box-gradient:nth-child(4){
-        grid-column-start: 1;
+    .box-gradient{
+        flex-direction: column;
     }
 }
 @media(max-width: 320px){
-    .box-gradient:nth-child(1){
-        grid-column-start: 1;
-    }
-    .box-gradient:nth-child(2){
-        grid-column-start: 1;
-    }
-    .box-gradient:nth-child(3){
-        grid-column-start: 1;
-    }
-    .box-gradient:nth-child(4){
-        grid-column-start: 1;
+    .box-gradient{
+        flex-direction: column;
     }
 }
 .container-glass{
