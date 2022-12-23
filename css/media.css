@@ -183,7 +183,7 @@
         height: 300px;
     }
 }
-@media(max-width: 390px){
+@media(max-width: 420px){
     .box-gradient:nth-child(1){
         grid-column-start: 1;
         left: -1em;
