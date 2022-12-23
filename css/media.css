@@ -285,8 +285,6 @@
     .wrapper{
         height: 120em;
     }
-}
-@media(max-width: 320px){
     .header-img::before{
         margin: auto;
         left: 0;
