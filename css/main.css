@@ -300,16 +300,6 @@ body{
     font-weight: 700;
     margin-top: 5px;
 }
-@media(max-width: 360px){
-    .box-gradient{
-        flex-direction: column;
-    }
-}
-@media(max-width: 320px){
-    .box-gradient{
-        flex-direction: column;
-    }
-}
 .container-glass{
     display: grid;
     grid-template-columns: repeat(auto-fit, 280px);;
