@@ -186,17 +186,19 @@
 @media(max-width: 420px){
     .box-gradient:nth-child(1){
         grid-column-start: 1;
-        left: 1000px;
+        justify-self: center;
     }
     .box-gradient:nth-child(2){
         grid-column-start: 1;
+        justify-self: center;
     }
     .box-gradient:nth-child(3){
         grid-column-start: 1;
-        left: -1000px;
+        justify-self: center;
     }
     .box-gradient:nth-child(4){
         grid-column-start: 1;
+        justify-self: center;
     }
 }
 @media(max-width: 370px){
