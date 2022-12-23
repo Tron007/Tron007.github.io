@@ -216,7 +216,7 @@
     .hero{
         width: 450px;
         height: 350px;
-        font-size: 12px;
+        font-size: 10px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
@@ -252,7 +252,7 @@
     .hero{
         width: 450px;
         height: 350px;
-        font-size: 12px;
+        font-size: 10px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
@@ -278,7 +278,7 @@
     .hero{
         width: 450px;
         height: 350px;
-        font-size: 12px;
+        font-size: 10px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
