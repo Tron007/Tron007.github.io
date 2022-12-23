@@ -212,14 +212,14 @@
 @media(max-width: 360px){
     .box-gradient:nth-child(1){
         grid-column-start: 1;
-        left: -1em;
+        left: -10em;
     }
     .box-gradient:nth-child(2){
         grid-column-start: 1;
     }
     .box-gradient:nth-child(3){
         grid-column-start: 1;
-        left: -1em;
+        left: -2em;
     }
     .box-gradient:nth-child(4){
         grid-column-start: 1;
@@ -228,14 +228,14 @@
 @media(max-width: 320px){
     .box-gradient:nth-child(1){
         grid-column-start: 1;
-        left: -1em;
+        left: -10em;
     }
     .box-gradient:nth-child(2){
         grid-column-start: 1;
     }
     .box-gradient:nth-child(3){
         grid-column-start: 1;
-        left: -1em;
+        left: -2em;
     }
     .box-gradient:nth-child(4){
         grid-column-start: 1;
