@@ -219,9 +219,13 @@
     .box-gradient:nth-child(3):hover::after{
         left: 110px;
     }
+    .box-gradient:nth-child(1) span::before,
+    .box-gradient:nth-child(3) span::before{
+        left: 90px;
+    }
     .box-gradient:nth-child(1) span::after,
     .box-gradient:nth-child(3) span::after{
-        left: 60px;
+        left: 120px;
     }
     .hero{
         left: -30px;
