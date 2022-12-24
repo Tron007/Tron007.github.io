@@ -213,11 +213,11 @@
     }
     .box-gradient:nth-child(1):hover::before,
     .box-gradient:nth-child(1):hover::after{
-        left: 70px;
+        left: 90px;
     }
     .box-gradient:nth-child(3):hover::before,
     .box-gradient:nth-child(3):hover::after{
-        left: 70px;
+        left: 90px;
     }
     .hero{
         left: -30px;
