@@ -208,15 +208,15 @@
         justify-self: center;
     }
     .box-gradient:nth-child(1) .content{
-        left: -10px;
+        left: 0px;
     }
     .box-gradient:nth-child(3) .content{
-        left: -10px;
+        left: 0px;
     }
     .hero{
-        width: 300px;
-        height: 200px;
-        font-size: 6px;
+        width: 350px;
+        height: 250px;
+        font-size: 7px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
@@ -250,15 +250,15 @@
         grid-column-start: 1;
     }
     .box-gradient:nth-child(1) .content{
-        left: -10px;
+        left: 0px;
     }
     .box-gradient:nth-child(3) .content{
-        left: -10px;
+        left: 0px;
     }
     .hero{
-        width: 300px;
-        height: 200px;
-        font-size: 6px;
+        width: 350px;
+        height: 250px;
+        font-size: 7px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
@@ -282,15 +282,15 @@
         grid-column-start: 1;
     }
     .box-gradient:nth-child(1) .content{
-        left: -10px;
+        left: 0px;
     }
     .box-gradient:nth-child(3) .content{
-        left: -10px;
+        left: 0px;
     }
     .hero{
-        width: 300px;
-        height: 200px;
-        font-size: 6px;
+        width: 350px;
+        height: 250px;
+        font-size: 7px;
         grid-column-start: 1;
         grid-column-end: 2;
     }
