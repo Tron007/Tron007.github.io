@@ -210,10 +210,10 @@
         justify-self: center;
     }
     .box-gradient:nth-child(1) .content{
-        left: 40px;
+        left: 60px;
     }
     .box-gradient:nth-child(3) .content{
-        left: 30px;
+        left: 60px;
     }
     .hero{
         left: -30px;
