@@ -225,7 +225,7 @@
     }
     .box-gradient:nth-child(1) span::after,
     .box-gradient:nth-child(3) span::after{
-        right: 50px;
+        right: -50px;
     }
     .hero{
         left: -30px;
@@ -281,11 +281,19 @@
     }
     .box-gradient:nth-child(1):hover::before,
     .box-gradient:nth-child(1):hover::after{
-        left: 70px;
+        left: 110px;
     }
     .box-gradient:nth-child(3):hover::before,
     .box-gradient:nth-child(3):hover::after{
-        left: 70px;
+        left: 110px;
+    }
+    .box-gradient:nth-child(1) span::before,
+    .box-gradient:nth-child(3) span::before{
+        left: 135px;
+    }
+    .box-gradient:nth-child(1) span::after,
+    .box-gradient:nth-child(3) span::after{
+        right: -50px;
     }
     .hero{
         left: -30px;
@@ -331,11 +339,19 @@
     }
     .box-gradient:nth-child(1):hover::before,
     .box-gradient:nth-child(1):hover::after{
-        left: 70px;
+        left: 110px;
     }
     .box-gradient:nth-child(3):hover::before,
     .box-gradient:nth-child(3):hover::after{
-        left: 70px;
+        left: 110px;
+    }
+    .box-gradient:nth-child(1) span::before,
+    .box-gradient:nth-child(3) span::before{
+        left: 135px;
+    }
+    .box-gradient:nth-child(1) span::after,
+    .box-gradient:nth-child(3) span::after{
+        right: -50px;
     }
     .hero{
         left: -30px;
