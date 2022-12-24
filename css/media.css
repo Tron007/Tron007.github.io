@@ -193,6 +193,7 @@
 @media(max-width: 420px){
     .box-gradient:nth-child(1){
         grid-column-start: 1;
+        left: 50px;
         justify-self: center;
     }
     .box-gradient:nth-child(2){
@@ -201,6 +202,7 @@
     }
     .box-gradient:nth-child(3){
         grid-column-start: 1;
+        left: 0px;
         justify-self: center;
     }
     .box-gradient:nth-child(4){
