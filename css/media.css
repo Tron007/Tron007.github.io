@@ -193,7 +193,7 @@
 @media(max-width: 420px){
     .box-gradient:nth-child(1){
         grid-column-start: 1;
-        left: -15px;
+        left: -150px;
         justify-self: center;
     }
     .box-gradient:nth-child(2){
@@ -202,7 +202,7 @@
     }
     .box-gradient:nth-child(3){
         grid-column-start: 1;
-        left: -10px;
+        left: -50px;
         justify-self: center;
     }
     .box-gradient:nth-child(4){
@@ -222,6 +222,9 @@
         font-size: 7px;
         grid-column-start: 1;
         grid-column-end: 2;
+    }
+    .hero-description {
+        bottom: 20%;
     }
     .hero-description-bk{
         width: 108%;
