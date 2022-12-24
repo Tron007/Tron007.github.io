@@ -211,6 +211,10 @@
     .box-gradient:nth-child(3) .content{
         left: 60px;
     }
+    .box-gradient:hover::before,
+    .box-gradient:hover::after{
+        left: -72px;
+    }
     .hero{
         left: -30px;
         width: 350px;
