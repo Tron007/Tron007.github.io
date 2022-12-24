@@ -221,11 +221,11 @@
     }
     .box-gradient:nth-child(1) span::before,
     .box-gradient:nth-child(3) span::before{
-        left: 130px;
+        left: 135px;
     }
     .box-gradient:nth-child(1) span::after,
     .box-gradient:nth-child(3) span::after{
-        right: -100px;
+        right: 100px;
     }
     .hero{
         left: -30px;
