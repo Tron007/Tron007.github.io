@@ -191,16 +191,14 @@
     }
 }
 @media(max-width: 420px){
-    .box-gradient:nth-child(1)::before,
-    .box-gradient:nth-child(1)::after{
+    .box-gradient:nth-child(1){
         grid-column-start: 1;
         left:-72px;
     }
     .box-gradient:nth-child(2){
         grid-column-start: 1;
     }
-    .box-gradient:nth-child(3)::before,
-    .box-gradient:nth-child(3)::after{
+    .box-gradient:nth-child(3){
         grid-column-start: 1;
         left:-72px;
     }
