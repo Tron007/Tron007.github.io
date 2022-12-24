@@ -223,6 +223,12 @@
         grid-column-start: 1;
         grid-column-end: 2;
     }
+    .hero-description-bk{
+        width: 108%;
+    }
+    .hero-profile-img {
+        width: 100%;
+      }
     .wrapper{
         height: 120em;
     }
@@ -270,6 +276,12 @@
         grid-column-start: 1;
         grid-column-end: 2;
     }
+    .hero-description-bk{
+        width: 108%;
+    }
+    .hero-profile-img {
+        width: 100%;
+      }
     .wrapper{
         height: 120em;
     }
@@ -307,6 +319,12 @@
         grid-column-start: 1;
         grid-column-end: 2;
     }
+    .hero-description-bk{
+        width: 108%;
+    }
+    .hero-profile-img {
+        width: 100%;
+      }
     .wrapper{
         height: 120em;
     }
