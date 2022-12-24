@@ -225,7 +225,7 @@
     }
     .box-gradient:nth-child(1) span::after,
     .box-gradient:nth-child(3) span::after{
-        right: 70px;
+        right: 0px;
     }
     .hero{
         left: -30px;
